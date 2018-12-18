@@ -1,0 +1,121 @@
+Countdown
+---------
+
+Countdown is a program that counts days, months and years to a start of an event. User can add events, remove events 
+and view all events with countdown timers. Event date can be in future or past (just for fun). Events and their 
+start dates are saved to configuration file so that countdowns can be started again when program is restarted.
+
+Following is the start of the program:
+
+------------------------------
+Welcome to Countdown by Tihku!
+------------------------------
+To view all counters, press [v] key and then [ENTER]
+To add a countdown event, press [a] key and then [ENTER]
+To remove a countdown event, press [r] key and then [ENTER]
+To quit the program, press [q] key and then [ENTER]
+>
+
+
+To view all counters:
+
+------------------------------
+Welcome to Countdown by Tihku!
+------------------------------
+To view all counters, press [v] key and then [ENTER]
+To add a countdown event, press [a] key and then [ENTER]
+To remove a countdown event, press [r] key and then [ENTER]
+To quit the program, press [q] key and then [ENTER]
+> v
+Events:
+---------------------------------
+
+Countdown for Countup for Common Era
+-2018 years -5 months -16 days
+
+
+Countdown for Christmas
+0 years 6 months 8 days
+
+
+Countdown for Psy-Fi Festival
+0 years 1 months 29 days
+
+
+Countdown for End of the world prediction by Ronald Weinland
+0 years 11 months 23 days
+
+
+Countdown for Kosmos Festival
+0 years 0 months 19 days
+
+
+Countdown for Tihku's birthday
+0 years 5 months 11 days
+
+
+Countdown for World peace
+36 years 10 months 28 days
+
+---------------------------------
+
+To view all counters, press [v] key and then [ENTER]
+To add a countdown event, press [a] key and then [ENTER]
+To remove a countdown event, press [r] key and then [ENTER]
+To quit the program, press [q] key and then [ENTER]
+>
+
+
+To add a countdown event:
+
+------------------------------
+Welcome to Countdown by Tihku!
+------------------------------
+To view all counters, press [v] key and then [ENTER]
+To add a countdown event, press [a] key and then [ENTER]
+To remove a countdown event, press [r] key and then [ENTER]
+To quit the program, press [q] key and then [ENTER]
+> a
+Give a name for the event and press [ENTER] key. (Do not use character ;)
+> Test event
+Give a starting date for an event and press [ENTER] key.
+Format dd/mm/yyyy
+> 10/10/2020
+Event added!
+To view all counters, press [v] key
+To add a countdown event, press [a] key
+To remove a countdown event, press [r] key
+To quit the program, press [q] key
+>
+
+
+To remove a countdown event:
+
+------------------------------
+Welcome to Countdown by Tihku!
+------------------------------
+To view all counters, press [v] key and then [ENTER]
+To add a countdown event, press [a] key and then [ENTER]
+To remove a countdown event, press [r] key and then [ENTER]
+To quit the program, press [q] key and then [ENTER]
+> r
+Give a name of the event you want to remove and press [ENTER] key.
+> Test event
+Event removed!
+To view all counters, press [v] key
+To add a countdown event, press [a] key
+To remove a countdown event, press [r] key
+To quit the program, press [q] key
+>
+
+
+To quit the program:
+
+------------------------------
+Welcome to Countdown by Tihku!
+------------------------------
+To view all counters, press [v] key and then [ENTER]
+To add a countdown event, press [a] key and then [ENTER]
+To remove a countdown event, press [r] key and then [ENTER]
+To quit the program, press [q] key and then [ENTER]
+> q
